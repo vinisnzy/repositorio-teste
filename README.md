@@ -1,4 +1,5 @@
 # repositório-teste
  o meu primeiro repositório, utilizado para teste.
 
- gosto de pera
+ gosto de banana, e maça
+ 
