@@ -1,2 +1,2 @@
-# test-repository
- primeiro repositório teste
+# repositório-teste
+ o meu primeiro repositório, utilizado para teste.
